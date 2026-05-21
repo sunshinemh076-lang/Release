@@ -1,8 +1,7 @@
 {
-  "code": 542,
-  "name": "5.4.2",
+  "code": 541,
+  "name": "5.4.1",
   "desc": "* 修正閃退問題\n* 配置新增 \"danmaku\"",
   "isMustUpdate": false,
-  "sourceUrl": "https://9280.kstore.vip/newwex.json",
-  "isOpenAd": true
+  "sourceUrl": "https://9280.kstore.vip/newwex.json"
 }
