@@ -3,5 +3,5 @@
   "name": "5.4.1",
   "desc": "* 修正閃退問題\n* 配置新增 \"danmaku\"",
   "isMustUpdate": false,
-  "sourceUrl": "https://9280.kstore.vip/newwex.json"
+  "sourceUrls": ["https://9280.kstore.vip/newwex.json"]
 }
